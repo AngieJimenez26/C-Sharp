@@ -1,0 +1,14 @@
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Ejercicio_angie06\Ejercicio_angie06\bin\Debug\net7.0\Ejercicio_angie06.exe
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Ejercicio_angie06\Ejercicio_angie06\bin\Debug\net7.0\Ejercicio_angie06.deps.json
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Ejercicio_angie06\Ejercicio_angie06\bin\Debug\net7.0\Ejercicio_angie06.runtimeconfig.json
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Ejercicio_angie06\Ejercicio_angie06\bin\Debug\net7.0\Ejercicio_angie06.dll
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Ejercicio_angie06\Ejercicio_angie06\bin\Debug\net7.0\Ejercicio_angie06.pdb
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Ejercicio_angie06\Ejercicio_angie06\obj\Debug\net7.0\Ejercicio_angie06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Ejercicio_angie06\Ejercicio_angie06\obj\Debug\net7.0\Ejercicio_angie06.AssemblyInfoInputs.cache
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Ejercicio_angie06\Ejercicio_angie06\obj\Debug\net7.0\Ejercicio_angie06.AssemblyInfo.cs
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Ejercicio_angie06\Ejercicio_angie06\obj\Debug\net7.0\Ejercicio_angie06.csproj.CoreCompileInputs.cache
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Ejercicio_angie06\Ejercicio_angie06\obj\Debug\net7.0\Ejercicio_angie06.dll
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Ejercicio_angie06\Ejercicio_angie06\obj\Debug\net7.0\refint\Ejercicio_angie06.dll
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Ejercicio_angie06\Ejercicio_angie06\obj\Debug\net7.0\Ejercicio_angie06.pdb
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Ejercicio_angie06\Ejercicio_angie06\obj\Debug\net7.0\Ejercicio_angie06.genruntimeconfig.cache
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Ejercicio_angie06\Ejercicio_angie06\obj\Debug\net7.0\ref\Ejercicio_angie06.dll

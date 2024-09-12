@@ -1,0 +1,14 @@
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Ejercicio de tarea_angie05ene\Ejercicio de tarea_angie05ene\bin\Debug\net7.0\Ejercicio de tarea_angie05ene.exe
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Ejercicio de tarea_angie05ene\Ejercicio de tarea_angie05ene\bin\Debug\net7.0\Ejercicio de tarea_angie05ene.deps.json
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Ejercicio de tarea_angie05ene\Ejercicio de tarea_angie05ene\bin\Debug\net7.0\Ejercicio de tarea_angie05ene.runtimeconfig.json
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Ejercicio de tarea_angie05ene\Ejercicio de tarea_angie05ene\bin\Debug\net7.0\Ejercicio de tarea_angie05ene.dll
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Ejercicio de tarea_angie05ene\Ejercicio de tarea_angie05ene\bin\Debug\net7.0\Ejercicio de tarea_angie05ene.pdb
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Ejercicio de tarea_angie05ene\Ejercicio de tarea_angie05ene\obj\Debug\net7.0\Ejercicio de tarea_angie05ene.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Ejercicio de tarea_angie05ene\Ejercicio de tarea_angie05ene\obj\Debug\net7.0\Ejercicio de tarea_angie05ene.AssemblyInfoInputs.cache
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Ejercicio de tarea_angie05ene\Ejercicio de tarea_angie05ene\obj\Debug\net7.0\Ejercicio de tarea_angie05ene.AssemblyInfo.cs
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Ejercicio de tarea_angie05ene\Ejercicio de tarea_angie05ene\obj\Debug\net7.0\Ejercicio de tarea_angie05ene.csproj.CoreCompileInputs.cache
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Ejercicio de tarea_angie05ene\Ejercicio de tarea_angie05ene\obj\Debug\net7.0\Ejercicio de tarea_angie05ene.dll
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Ejercicio de tarea_angie05ene\Ejercicio de tarea_angie05ene\obj\Debug\net7.0\refint\Ejercicio de tarea_angie05ene.dll
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Ejercicio de tarea_angie05ene\Ejercicio de tarea_angie05ene\obj\Debug\net7.0\Ejercicio de tarea_angie05ene.pdb
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Ejercicio de tarea_angie05ene\Ejercicio de tarea_angie05ene\obj\Debug\net7.0\Ejercicio de tarea_angie05ene.genruntimeconfig.cache
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Ejercicio de tarea_angie05ene\Ejercicio de tarea_angie05ene\obj\Debug\net7.0\ref\Ejercicio de tarea_angie05ene.dll

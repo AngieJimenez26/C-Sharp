@@ -1,0 +1,14 @@
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Programa03_01\Programa03_01\bin\Debug\net7.0\Programa03_01.exe
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Programa03_01\Programa03_01\bin\Debug\net7.0\Programa03_01.deps.json
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Programa03_01\Programa03_01\bin\Debug\net7.0\Programa03_01.runtimeconfig.json
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Programa03_01\Programa03_01\bin\Debug\net7.0\Programa03_01.dll
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Programa03_01\Programa03_01\bin\Debug\net7.0\Programa03_01.pdb
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Programa03_01\Programa03_01\obj\Debug\net7.0\Programa03_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Programa03_01\Programa03_01\obj\Debug\net7.0\Programa03_01.AssemblyInfoInputs.cache
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Programa03_01\Programa03_01\obj\Debug\net7.0\Programa03_01.AssemblyInfo.cs
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Programa03_01\Programa03_01\obj\Debug\net7.0\Programa03_01.csproj.CoreCompileInputs.cache
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Programa03_01\Programa03_01\obj\Debug\net7.0\Programa03_01.dll
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Programa03_01\Programa03_01\obj\Debug\net7.0\refint\Programa03_01.dll
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Programa03_01\Programa03_01\obj\Debug\net7.0\Programa03_01.pdb
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Programa03_01\Programa03_01\obj\Debug\net7.0\Programa03_01.genruntimeconfig.cache
+C:\Users\javier\Desktop\ANGIE PROGRAMACIÓN\Programa03_01\Programa03_01\obj\Debug\net7.0\ref\Programa03_01.dll
